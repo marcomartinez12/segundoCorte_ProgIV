@@ -1,0 +1,52 @@
+*{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}  
+
+.container{
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+
+}
+section{
+    text-align: justify;
+
+}
+.imagen img{
+    width: 100%;
+
+}
+header nav ul{
+    list-style: none;
+    overflow: hidden;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    padding: 16px;
+    display: inline-block;
+    color: black;
+    
+}
+header nav ul li{
+    float: left;
+}
+header{
+    background-color: red;
+}
+header nav ul li a:hover {
+    background-color: green;
+    color: chocolate;
+}
+
+footer{ 
+    background-color: black;
+    color: whitesmoke;
+}
+footer p {
+    color: antiquewhite;
+    padding: 20px;
+    text-align: center;
+}
